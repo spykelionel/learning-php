@@ -9,7 +9,7 @@ content="text/html; charset=utf-8"/>
 <body>
 <p>Today&rsquo;s date (according to this web server) is
 <?php
-echo date('l, F dS Y.');
+echo 'This is a <strong>test</strong>!';
 ?>
 </p>
 </body>
